@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+*.egg-info/
+pip-wheel-metadata/
+
+# Conda environment
+*.conda
+*.lock
+conda-meta/
+lib/
+bin/
+include/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Data files
+data/
+*.csv
+*.tsv
+*.json
+*.xlsx
+
+# Logs
+*.log
+
+# IDE configs
+.vscode/
+.idea/
+
+# Mac & Windows system files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Build artifacts
+build/
+dist/
