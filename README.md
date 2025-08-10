@@ -109,8 +109,3 @@ Then open **[http://localhost:8501](http://localhost:8501)** in your browser.
 ```
 Predicted Category: rec.sport.hockey
 ```
-
----
-
-Do you want me to also create the **`requirements.txt`** right now so that once you push this with README, the Streamlit Cloud deployment will work without missing dependencies? That’s the next logical step.
-```
